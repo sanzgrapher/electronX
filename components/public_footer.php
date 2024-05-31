@@ -21,10 +21,13 @@
             <!-- Links -->
             <h6 class="text-uppercase text-white fw-bold mb-2">Store</h6>
             <ul class="list-unstyled mb-4">
-              <li><a class="text-white-50" href="#">About us</a></li>
-              <li><a class="text-white-50" href="#">Find store</a></li>
-              <li><a class="text-white-50" href="#">Categories</a></li>
-              <li><a class="text-white-50" href="#">Blogs</a></li>
+              <li><a class="text-white-50" href="index.php">Home</a></li>
+              <li><a class="text-white-50" href="grid.php">List Product</a></li>
+              <li><a class="text-white-50" href="single-product.php">single product</a></li>
+              <li><a class="text-white-50" href="product-list.php">product list</a></li>
+              <li><a class="text-white-50" href="cart.php">Cart</a></li>
+              <li><a class="text-white-50" href="checkout.php">Checkout</a></li>
+              <li><a class="text-white-50" href="account.php">accout</a></li>
             </ul>
           </div>
           <!-- Grid column -->
@@ -92,48 +95,7 @@
           </div>
           <!--- payment --->
 
-          <!--- language selector --->
-          <div class="dropdown dropup">
-            <a class="dropdown-toggle text-white" href="#" id="Dropdown" role="button" data-toggle="dropdown"
-              aria-expanded="false">
-              <i class="flag-united-kingdom flag m-0 me-1"></i>English
-            </a>
-
-            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="Dropdown">
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-united-kingdom flag"></i>English
-                  <i class="fa fa-check text-success ms-2"></i></a>
-              </li>
-              <li>
-                <hr class="dropdown-divider" />
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-poland flag"></i>Polski</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-china flag"></i>中文</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-japan flag"></i>日本語</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-germany flag"></i>Deutsch</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-france flag"></i>Français</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-spain flag"></i>Español</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-russia flag"></i>Русский</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#"><i class="flag-portugal flag"></i>Português</a>
-              </li>
-            </ul>
-          </div>
-          <!--- language selector --->
+         
         </div>
       </div>
     </div>
