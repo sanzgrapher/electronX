@@ -1,3 +1,7 @@
+ <?php include "components/public_header.php"; ?>
+
+ 
+
 
   <!--  intro  -->
   <section class="mt-3">
@@ -495,3 +499,4 @@
       </div>
     </div>
   </section>
+ <?php include "components/public_footer.php"; ?>
