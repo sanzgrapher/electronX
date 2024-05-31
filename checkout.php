@@ -192,7 +192,7 @@
               <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill badge-secondary">
                 1
               </span>
-              <img src="/electrox_ui/images.7.webp" style="height: 96px; width: 96x;" class="img-sm rounded border" />
+              <img src="/electrox_ui/images/7.webp" style="height: 96px; width: 96x;" class="img-sm rounded border" />
             </div>
             <div class="">
               <a href="#" class="nav-link">
@@ -208,7 +208,7 @@
               <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill badge-secondary">
                 1
               </span>
-              <img src="/electrox_ui/images.5.webp" style="height: 96px; width: 96x;" class="img-sm rounded border" />
+              <img src="/electrox_ui/images/5.webp" style="height: 96px; width: 96x;" class="img-sm rounded border" />
             </div>
             <div class="">
               <a href="#" class="nav-link">
@@ -224,7 +224,7 @@
               <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill badge-secondary">
                 3
               </span>
-              <img src="/electrox_ui/images.1.webp" style="height: 96px; width: 96x;" class="img-sm rounded border" />
+              <img src="/electrox_ui/images/1.webp" style="height: 96px; width: 96x;" class="img-sm rounded border" />
             </div>
             <div class="">
               <a href="#" class="nav-link">GoPro HERO6 4K Action Camera - Black</a>

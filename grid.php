@@ -252,7 +252,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.10.webp" class="card-img-top" />
+              <img src="/electrox_ui/images/10.webp" class="card-img-top" />
               <div class="card-body d-flex flex-column">
                 <div class="d-flex flex-row">
                   <h5 class="mb-1 me-1">$34,50</h5>
@@ -268,7 +268,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.11.webp" class="card-img-top" />
+              <img src="/electrox_ui/images/11.webp" class="card-img-top" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$120.00</h5>
                 <p class="card-text">Winter Jacket for Men and Women, All sizes</p>
@@ -281,7 +281,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.12.webp" class="card-img-top" />
+              <img src="/electrox_ui/images/12.webp" class="card-img-top" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$120.00</h5>
                 <p class="card-text">T-shirts with multiple colors, for men and lady</p>
@@ -294,7 +294,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.13.webp" class="card-img-top" style="aspect-ratio: 1 / 1"/>
+              <img src="/electrox_ui/images/13.webp" class="card-img-top" style="aspect-ratio: 1 / 1"/>
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$120.00</h5>
                 <p class="card-text">Blazer Suit Dress Jacket for Men, Blue color</p>
@@ -307,7 +307,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.14.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/14.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$510.00</h5>
                 <p class="card-text">Slim sleeve wallet Italian leather - multiple colors</p>
@@ -320,7 +320,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.10.webp" class="card-img-top" />
+              <img src="/electrox_ui/images/10.webp" class="card-img-top" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$79.99</h5>
                 <p class="card-text">T-shirts with multiple colors, for men and lady</p>
@@ -333,7 +333,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.11.webp" class="card-img-top" />
+              <img src="/electrox_ui/images/11.webp" class="card-img-top" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$120.00</h5>
                 <p class="card-text">Winter Jacket for Men and Women, All sizes</p>
@@ -346,7 +346,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.12.webp" class="card-img-top" />
+              <img src="/electrox_ui/images/12.webp" class="card-img-top" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$120.00</h5>
                 <p class="card-text">T-shirts with multiple colors, for men and lady</p>
@@ -359,7 +359,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 d-flex">
             <div class="card w-100 my-2 shadow-2-strong">
-              <img src="/electrox_ui/images.9.webp" class="card-img-top" />
+              <img src="/electrox_ui/images/9.webp" class="card-img-top" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">$43.50</h5>
                 <p class="card-text">Summer New Men's Denim Jeans Shorts</p>

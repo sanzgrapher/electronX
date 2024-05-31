@@ -13,7 +13,7 @@
               <div class="col-lg-5">
                 <div class="me-lg-5">
                   <div class="d-flex">
-                    <img src="/electrox_ui/images.11.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
+                    <img src="/electrox_ui/images/11.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
                     <div class="">
                       <a href="#" class="nav-link">Winter jacket for men and lady</a>
                       <p class="text-muted">Yellow, Jeans</p>
@@ -47,7 +47,7 @@
               <div class="col-lg-5">
                 <div class="me-lg-5">
                   <div class="d-flex">
-                    <img src="/electrox_ui/images.12.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
+                    <img src="/electrox_ui/images/12.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
                     <div class="">
                       <a href="#" class="nav-link">Mens T-shirt Cotton Base</a>
                       <p class="text-muted">Blue, Medium</p>
@@ -81,7 +81,7 @@
               <div class="col-lg-5">
                 <div class="me-lg-5">
                   <div class="d-flex">
-                    <img src="/electrox_ui/images.13.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
+                    <img src="/electrox_ui/images/13.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
                     <div class="">
                       <a href="#" class="nav-link">Blazer Suit Dress Jacket for Men</a>
                       <p class="text-muted">XL size, Jeans, Blue</p>
@@ -185,7 +185,7 @@
             </div>
           </div>
           <a href="#" class="">
-            <img src="/electrox_ui/images.7.webp" class="card-img-top rounded-2" />
+            <img src="/electrox_ui/images/7.webp" class="card-img-top rounded-2" />
           </a>
           <div class="card-body d-flex flex-column pt-3 border-top">
             <a href="#" class="nav-link">Gaming Headset with Mic</a>
@@ -205,7 +205,7 @@
             <a href="#"><i class="fas fa-heart text-primary fa-lg float-end pt-3 m-2"></i></a>
           </div>
           <a href="#" class="">
-            <img src="/electrox_ui/images.5.webp" class="card-img-top rounded-2" />
+            <img src="/electrox_ui/images/5.webp" class="card-img-top rounded-2" />
           </a>
           <div class="card-body d-flex flex-column pt-3 border-top">
             <a href="#" class="nav-link">Apple Watch Series 1 Sport </a>
@@ -224,7 +224,7 @@
             <a href="#"><i class="fas fa-heart text-primary fa-lg float-end pt-3 m-2"></i></a>
           </div>
           <a href="#" class="">
-            <img src="/electrox_ui/images.9.webp" class="card-img-top rounded-2" />
+            <img src="/electrox_ui/images/9.webp" class="card-img-top rounded-2" />
           </a>
           <div class="card-body d-flex flex-column pt-3 border-top">
             <a href="#" class="nav-link">Men's Denim Jeans Shorts</a>
@@ -243,7 +243,7 @@
             <a href="#"><i class="fas fa-heart text-primary fa-lg float-end pt-3 m-2"></i></a>
           </div>
           <a href="#" class="">
-            <img src="/electrox_ui/images.10.webp" class="card-img-top rounded-2" />
+            <img src="/electrox_ui/images/10.webp" class="card-img-top rounded-2" />
           </a>
           <div class="card-body d-flex flex-column pt-3 border-top">
             <a href="#" class="nav-link">Mens T-shirt Cotton Base Layer Slim fit </a>

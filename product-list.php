@@ -256,7 +256,7 @@
                 <div class="row g-0">
                   <div class="col-xl-3 col-md-4 d-flex justify-content-center">
                     <div class="bg-image hover-zoom ripple rounded ripple-surface me-md-3 mb-3 mb-md-0">
-                      <img src="/electrox_ui/images.8.webp" class="w-100" />
+                      <img src="/electrox_ui/images/8.webp" class="w-100" />
                       <a href="#!">
                         <div class="hover-overlay">
                           <div class="mask" style="background-color: rgba(253, 253, 253, 0.15);"></div>
@@ -309,7 +309,7 @@
                 <div class="row g-0">
                   <div class="col-xl-3 col-md-4 d-flex justify-content-center">
                     <div class="bg-image hover-zoom ripple rounded ripple-surface me-md-3 mb-3 mb-md-0">
-                      <img src="/electrox_ui/images.9.webp" class="w-100" />
+                      <img src="/electrox_ui/images/9.webp" class="w-100" />
                       <a href="#!">
                         <div class="hover-overlay">
                           <div class="mask" style="background-color: rgba(253, 253, 253, 0.15);"></div>
@@ -362,7 +362,7 @@
                 <div class="row g-0">
                   <div class="col-xl-3 col-md-4 d-flex justify-content-center">
                     <div class="bg-image hover-zoom ripple rounded ripple-surface me-md-3 mb-3 mb-md-0">
-                      <img src="/electrox_ui/images.10.webp" class="w-100" />
+                      <img src="/electrox_ui/images/10.webp" class="w-100" />
                       <a href="#!">
                         <div class="hover-overlay">
                           <div class="mask" style="background-color: rgba(253, 253, 253, 0.15);"></div>
@@ -414,7 +414,7 @@
                 <div class="row g-0">
                   <div class="col-xl-3 col-md-4 d-flex justify-content-center">
                     <div class="bg-image hover-zoom ripple rounded ripple-surface me-md-3 mb-3 mb-md-0">
-                      <img src="/electrox_ui/images.11.webp" class="w-100" />
+                      <img src="/electrox_ui/images/11.webp" class="w-100" />
                       <a href="#!">
                         <div class="hover-overlay">
                           <div class="mask" style="background-color: rgba(253, 253, 253, 0.15);"></div>
@@ -466,7 +466,7 @@
                 <div class="row g-0">
                   <div class="col-xl-3 col-md-4 d-flex justify-content-center">
                     <div class="bg-image hover-zoom ripple rounded ripple-surface me-md-3 mb-3 mb-md-0">
-                      <img src="/electrox_ui/images.12.webp" class="w-100" />
+                      <img src="/electrox_ui/images/12.webp" class="w-100" />
                       <a href="#!">
                         <div class="hover-overlay">
                           <div class="mask" style="background-color: rgba(253, 253, 253, 0.15);"></div>

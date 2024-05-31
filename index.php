@@ -217,7 +217,7 @@
                   <h6><span class="badge bg-success pt-2">Offer</span></h6>
                 </div>
               </div>
-              <img src="/electrox_ui/images.12.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/12.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-3">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -231,7 +231,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="card my-2 shadow-0">
             <a href="#" class="img-wrap">
-              <img src="/electrox_ui/images.11.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/11.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-2">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -245,7 +245,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="card my-2 shadow-0">
             <a href="#" class="img-wrap">
-              <img src="/electrox_ui/images.10.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/10.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-2">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -259,7 +259,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="card my-2 shadow-0">
             <a href="#" class="img-wrap">
-              <img src="/electrox_ui/images.9.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/9.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-2">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -273,7 +273,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="card my-2 shadow-0">
             <a href="#" class="img-wrap">
-              <img src="/electrox_ui/images.5.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/5.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-2">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -287,7 +287,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="card my-2 shadow-0">
             <a href="#" class="img-wrap">
-              <img src="/electrox_ui/images.6.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/6.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-2">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -301,7 +301,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="card my-2 shadow-0">
             <a href="#" class="img-wrap">
-              <img src="/electrox_ui/images.7.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/7.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-2">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -315,7 +315,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="card my-2 shadow-0">
             <a href="#" class="img-wrap">
-              <img src="/electrox_ui/images.8.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
+              <img src="/electrox_ui/images/8.webp" class="card-img-top" style="aspect-ratio: 1 / 1" />
             </a>
             <div class="card-body p-0 pt-2">
               <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i
@@ -343,9 +343,9 @@
                 width: 100%;
                 background-repeat: no-repeat;
                 top: 50%;
-                background-image: url('./electrox_ui/images.11.webp');
+                background-image: url('./electrox_ui/images/11.webp');
               ">
-            <!-- https://bootstrap-ecommerce.com/bootstrap5-ecommerce/electrox_ui/images.banners/banner-item2.webp -->
+            <!-- https://bootstrap-ecommerce.com/bootstrap5-ecommerce/electrox_ui/images/banners/banner-item2.webp -->
             <div class="p-3 p-lg-5" style="max-width: 70%">
               <h3 class="text-dark">
                 Best products & brands in our store at 80% off
@@ -409,37 +409,37 @@
       <div class="row gy-3">
         <div class="col-lg-2 col-md-4 col-4">
           <a href="#" class="img-wrap">
-            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images.1.webp" />
+            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images/1.webp" />
           </a>
         </div>
         <!-- col.// -->
         <div class="col-lg-2 col-md-4 col-4">
           <a href="#" class="img-wrap">
-            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images.2.webp" />
+            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images/2.webp" />
           </a>
         </div>
         <!-- col.// -->
         <div class="col-lg-2 col-md-4 col-4">
           <a href="#" class="img-wrap">
-            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images.3.webp" />
+            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images/3.webp" />
           </a>
         </div>
         <!-- col.// -->
         <div class="col-lg-2 col-md-4 col-4">
           <a href="#" class="img-wrap">
-            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images.4.webp" />
+            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images/4.webp" />
           </a>
         </div>
         <!-- col.// -->
         <div class="col-lg-2 col-md-4 col-4">
           <a href="#" class="img-wrap">
-            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images.5.webp" />
+            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images/5.webp" />
           </a>
         </div>
         <!-- col.// -->
         <div class="col-lg-2 col-md-4 col-4">
           <a href="#" class="img-wrap">
-            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images.6.webp" />
+            <img height="200" width="200" class="img-thumbnail" src="/electrox_ui/images/6.webp" />
           </a>
         </div>
       </div>

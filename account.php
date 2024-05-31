@@ -19,7 +19,7 @@
           <div class="content-body">
             <div class="d-flex align-items-center">
               <div class="me-3">
-                <img src="/electrox_ui/images.1.webp" class="rounded-circle" style="height: 60px; width: 60px;" />
+                <img src="/electrox_ui/images/1.webp" class="rounded-circle" style="height: 60px; width: 60px;" />
               </div>
               <div class="pt-2">
                 <h6 class="pt-2">Mr. Jackson Mike</h6>
@@ -97,7 +97,7 @@
                   <li class="col-xl-4 col-lg-6">
                     <div class="d-flex mb-3 mb-xl-0">
                       <div class="me-3">
-                        <img width="72" height="72" src="/electrox_ui/images.10.webp" class="img-sm rounded border" />
+                        <img width="72" height="72" src="/electrox_ui/images/10.webp" class="img-sm rounded border" />
                       </div>
                       <div class="">
                         <p class="mb-0">T-shirts with multiple colors</p>
@@ -108,7 +108,7 @@
                   <li class="col-xl-4 col-lg-6">
                     <div class="d-flex mb-3 mb-xl-0">
                       <div class="me-3">
-                        <img width="72" height="72" src="/electrox_ui/images.7.webp" class="img-sm rounded border" />
+                        <img width="72" height="72" src="/electrox_ui/images/7.webp" class="img-sm rounded border" />
                       </div>
                       <div class="">
                         <p class="mb-0">Gaming Headset 32db Black</p>
@@ -119,7 +119,7 @@
                   <li class="col-xl-4 col-lg-6">
                     <div class="d-flex mb-3 mb-md-0">
                       <div class="me-3">
-                        <img width="72" height="72" src="/electrox_ui/images.5.webp" class="img-sm rounded border" />
+                        <img width="72" height="72" src="/electrox_ui/images/5.webp" class="img-sm rounded border" />
                       </div>
                       <div class="">
                         <p class="mb-0">Apple Watch Series 4 Space Gray</p>
@@ -177,7 +177,7 @@
                   <li class="col-xl-4 col-lg-6">
                     <div class="d-flex mb-3 mb-lg-0">
                       <div class="me-3 mb-xl-0">
-                        <img width="72" height="72" src="/electrox_ui/images.10.webp" class="img-sm rounded border" />
+                        <img width="72" height="72" src="/electrox_ui/images/10.webp" class="img-sm rounded border" />
                       </div>
                       <div class="info">
                         <p class="mb-0">T-shirts with multiple colors</p>
@@ -188,7 +188,7 @@
                   <li class="col-xl-4 col-lg-6">
                     <div class="d-flex mb-0 mb-md-0">
                       <div class="me-3">
-                        <img width="72" height="72" src="/electrox_ui/images.7.webp" class="img-sm rounded border" />
+                        <img width="72" height="72" src="/electrox_ui/images/7.webp" class="img-sm rounded border" />
                       </div>
                       <div class="info">
                         <p class="mb-0">Gaming Headset 32db Black</p>
