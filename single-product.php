@@ -207,7 +207,7 @@
           <div class="card">
             <div class="card-body">
               <h5 class="card-title">Similar items</h5>
-              <div class="d-flex mb-3">
+              <div class="d-flex mb-3"> 
                 <a href="#" class="me-3">
                   <img src="https://mdbcdn.b-cdn.net/img/bootstrap-ecommerce/items/8.webp" style="min-width: 96px; height: 96px;" class="img-md img-thumbnail" />
                 </a>
