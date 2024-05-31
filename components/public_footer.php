@@ -1,70 +1,30 @@
+
   <!-- Footer -->
-  <footer class="text-center text-lg-start bg-light text-muted">
-    <!-- Section: Social media -->
-    <section class="p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-      <div class="container">
-        <div class="row d-flex">
-          <!-- Left -->
-          <div class="col-md-6 col-sm-12 mb-2 mb-md-0 d-flex justify-content-center justify-content-md-start">
-            <div class="">
-              <div class="input-group" style="max-width: 400px;">
-                <input type="email" class="form-control border" placeholder="Email" aria-label="Email"
-                  aria-describedby="button-addon2" />
-                <button class="btn btn-light border" type="button" id="button-addon2" data-ripple-color="dark">
-                  Subscribe
-                </button>
-              </div>
-            </div>
-          </div>
-          <!-- Left -->
-
-          <!-- Right -->
-          <div class="col-md-6 col-sm-12 float-center">
-            <div class="float-md-end">
-              <a class="btn btn-icon btn-light text-secondary px-3 border" title="Facebook" target="_blank" href="#"><i
-                  class="fab fa-facebook-f fa-lg"></i></a>
-              <a class="btn btn-icon btn-light text-secondary px-3 border" title="Instagram" target="_blank" href="#"><i
-                  class="fab fa-instagram fa-lg"></i></a>
-              <a class="btn btn-icon btn-light text-secondary px-3 border" title="Youtube" target="_blank" href="#"><i
-                  class="fab fa-youtube fa-lg"></i></a>
-              <a class="btn btn-icon btn-light text-secondary px-3 border" title="Twitter" target="_blank" href="#"><i
-                  class="fab fa-twitter fa-lg"></i></a>
-            </div>
-          </div>
-          <!-- Right -->
-        </div>
-      </div>
-    </section>
-    <!-- Section: Social media -->
-
+  <footer class="text-center text-lg-start text-muted bg-primary mt-3">
     <!-- Section: Links  -->
     <section class="">
-      <div class="container text-center text-md-start mt-5 mb-4">
+      <div class="container text-center text-md-start pt-4 pb-4">
         <!-- Grid row -->
         <div class="row mt-3">
           <!-- Grid column -->
-          <div class="col-12 col-lg-3 col-sm-12">
+          <div class="col-12 col-lg-3 col-sm-12 mb-2">
             <!-- Content -->
-            <a href="https://mdbootstrap.com/" target="_blank" class="ms-md-2">
-              <img src="https://mdbootstrap.com/img/logo/transaprent-noshadows.png" height="35" />
+            <a href="https://bootstrap.com/" target="_blank" class="text-white h2">
+              BS
             </a>
-            <p class="mt-3">
-              © 2023 Copyright: MDBootstrap.com.
-            </p>
+            <p class="mt-1 text-white">© 2023 Copyright: Bootstrap.com</p>
           </div>
           <!-- Grid column -->
 
           <!-- Grid column -->
           <div class="col-6 col-sm-4 col-lg-2">
             <!-- Links -->
-            <h6 class="text-uppercase text-dark fw-bold mb-2">
-              Store
-            </h6>
+            <h6 class="text-uppercase text-white fw-bold mb-2">Store</h6>
             <ul class="list-unstyled mb-4">
-              <li><a class="text-muted" href="#">About us</a></li>
-              <li><a class="text-muted" href="#">Find store</a></li>
-              <li><a class="text-muted" href="#">Categories</a></li>
-              <li><a class="text-muted" href="#">Blogs</a></li>
+              <li><a class="text-white-50" href="#">About us</a></li>
+              <li><a class="text-white-50" href="#">Find store</a></li>
+              <li><a class="text-white-50" href="#">Categories</a></li>
+              <li><a class="text-white-50" href="#">Blogs</a></li>
             </ul>
           </div>
           <!-- Grid column -->
@@ -72,14 +32,14 @@
           <!-- Grid column -->
           <div class="col-6 col-sm-4 col-lg-2">
             <!-- Links -->
-            <h6 class="text-uppercase text-dark fw-bold mb-2">
+            <h6 class="text-uppercase text-white fw-bold mb-2">
               Information
             </h6>
             <ul class="list-unstyled mb-4">
-              <li><a class="text-muted" href="#">Help center</a></li>
-              <li><a class="text-muted" href="#">Money refund</a></li>
-              <li><a class="text-muted" href="#">Shipping info</a></li>
-              <li><a class="text-muted" href="#">Refunds</a></li>
+              <li><a class="text-white-50" href="#">Help center</a></li>
+              <li><a class="text-white-50" href="#">Money refund</a></li>
+              <li><a class="text-white-50" href="#">Shipping info</a></li>
+              <li><a class="text-white-50" href="#">Refunds</a></li>
             </ul>
           </div>
           <!-- Grid column -->
@@ -87,14 +47,12 @@
           <!-- Grid column -->
           <div class="col-6 col-sm-4 col-lg-2">
             <!-- Links -->
-            <h6 class="text-uppercase text-dark fw-bold mb-2">
-              Support
-            </h6>
+            <h6 class="text-uppercase text-white fw-bold mb-2">Support</h6>
             <ul class="list-unstyled mb-4">
-              <li><a class="text-muted" href="#">Help center</a></li>
-              <li><a class="text-muted" href="#">Documents</a></li>
-              <li><a class="text-muted" href="#">Account restore</a></li>
-              <li><a class="text-muted" href="#">My orders</a></li>
+              <li><a class="text-white-50" href="#">Help center</a></li>
+              <li><a class="text-white-50" href="#">Documents</a></li>
+              <li><a class="text-white-50" href="#">Account restore</a></li>
+              <li><a class="text-white-50" href="#">My orders</a></li>
             </ul>
           </div>
           <!-- Grid column -->
@@ -102,13 +60,18 @@
           <!-- Grid column -->
           <div class="col-12 col-sm-12 col-lg-3">
             <!-- Links -->
-            <h6 class="text-uppercase text-dark fw-bold mb-2">Our apps</h6>
-            <a href="#" class="mb-2 d-inline-block"> <img
-                src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/misc/btn-appstore.webp"
-                height="38" /></a>
-            <a href="#" class="mb-2 d-inline-block"> <img
-                src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/misc/btn-market.webp"
-                height="38" /></a>
+            <h6 class="text-uppercase text-white fw-bold mb-2">Newsletter</h6>
+            <p class="text-white">
+              Stay in touch with latest updates about our products and offers
+            </p>
+            <div class="input-group mb-3">
+              <input type="email" class="form-control border" placeholder="Email" aria-label="Email"
+                aria-describedby="button-addon2" />
+              <button class="btn btn-light border shadow-0" type="button" id="button-addon2"
+                data-ripple-color="dark">
+                Join
+              </button>
+            </div>
           </div>
           <!-- Grid column -->
         </div>
@@ -116,27 +79,30 @@
       </div>
     </section>
     <!-- Section: Links  -->
-    <div class="container">
-      <div class="py-4 border-top">
-        <div class="d-flex justify-content-between">
+
+    <div class="">
+      <div class="container">
+        <div class="d-flex justify-content-between py-4 border-top">
           <!--- payment --->
-          <div class="text-dark">
-            <i class="fab fa-lg fa-cc-visa"></i>
-            <i class="fab fa-lg fa-cc-amex"></i>
-            <i class="fab fa-lg fa-cc-mastercard"></i>
-            <i class="fab fa-lg fa-cc-paypal"></i>
+          <div>
+            <i class="fab fa-lg fa-cc-visa text-white"></i>
+            <i class="fab fa-lg fa-cc-amex text-white"></i>
+            <i class="fab fa-lg fa-cc-mastercard text-white"></i>
+            <i class="fab fa-lg fa-cc-paypal text-white"></i>
           </div>
           <!--- payment --->
 
           <!--- language selector --->
           <div class="dropdown dropup">
-            <a class="dropdown-toggle text-dark" href="#" id="Dropdown" role="button" data-toggle="dropdown"
-              aria-expanded="false"> <i class="flag-united-kingdom flag m-0"></i> English </a>
+            <a class="dropdown-toggle text-white" href="#" id="Dropdown" role="button" data-toggle="dropdown"
+              aria-expanded="false">
+              <i class="flag-united-kingdom flag m-0 me-1"></i>English
+            </a>
 
             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="Dropdown">
               <li>
-                <a class="dropdown-item" href="#"><i class="flag-united-kingdom flag"></i>English <i
-                    class="fa fa-check text-success ms-2"></i></a>
+                <a class="dropdown-item" href="#"><i class="flag-united-kingdom flag"></i>English
+                  <i class="fa fa-check text-success ms-2"></i></a>
               </li>
               <li>
                 <hr class="dropdown-divider" />
@@ -173,8 +139,8 @@
     </div>
   </footer>
   <!-- Footer -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   <!-- Custom scripts -->
   <script type="text/javascript" src="js/script.js"></script>
 </body>
