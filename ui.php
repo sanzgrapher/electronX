@@ -1,7 +1,5 @@
 <?php include "components/public_header.php"; ?>
 
-<h3>Admin Panels</h3>
-<?php include "components/admin-panel.php"; ?>
 
 
 
@@ -49,9 +47,7 @@
 
 <?php include "components/user-checkout.php" ?>
 
-<h3>dashboard</h3>
-<!-- content -->
-<?php include "components/dash-user.php" ?>
+
 <!-- content -->
 <h3>Single components</h3>
 <!-- content -->
@@ -59,6 +55,15 @@
 <?php include "components/component-forms.php" ?>
 <!-- content -->
 
+<h1>dashboard components</h1>
+
+<h3>dashboard</h3>
+<!-- content -->
+<?php include "components/dash-user.php" ?>
+
+
+<h3>Admin Panels</h3>
+<?php include "components/admin-panel.php"; ?>
 
 
 

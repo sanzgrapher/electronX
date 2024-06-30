@@ -1,31 +1,7 @@
 <section class="py-5 bg-light">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-xl-3">
-                <nav class="nav flex-lg-column w-100 d-flex nav-pills mb-4">
-                    <a class="nav-link my-0 active" href="#">
-                        <p class="pb-0 mb-0" style="width: 100px">Account main</p>
-                    </a>
-                    <a class="nav-link my-0 bg-light" href="#">
-                        <p class="pb-0 mb-0" style="width: 100px">New orders</p>
-                    </a>
-                    <a class="nav-link my-0 bg-light" href="#">
-                        <p class="pb-0 mb-0" style="width: 100px">Orders history</p>
-                    </a>
-                    <a class="nav-link my-0 bg-light" href="#">
-                        <p class="pb-0 mb-0" style="width: 100px">My wishlist</p>
-                    </a>
-                    <a class="nav-link my-0 bg-light" href="#">
-                        <p class="pb-0 mb-0" style="width: 100px">Transactions</p>
-                    </a>
-                    <a class="nav-link my-0 bg-light" href="#">
-                        <p class="pb-0 mb-0" style="width: 100px">Profile setting</p>
-                    </a>
-                    <a class="nav-link my-0 bg-light" href="#">
-                        <p class="pb-0 mb-0" style="width: 100px">Log out</p>
-                    </a>
-                </nav>
-            </div>
+           <?php include "components/dash-sidebar.php" ?>
             <main class="col-lg-9 col-xl-9">
                 <div class="card p-4 mb-0 shadow-0 border">
                     <div class="content-body">
@@ -65,8 +41,8 @@
 
                         <h5 class="mb-3">Your orders</h5>
 
-                        <?php include "components/dash-orderbox.php" ?>
-                        <?php include "components/dash-orderbox.php" ?>
+                         <?php include "components/dash-orderbox.php" ?>
+                        <?php include "components/dash-orderbox.php" ?> 
 
                     </div>
                 </div>
